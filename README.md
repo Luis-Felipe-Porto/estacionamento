@@ -5,7 +5,7 @@ Back-end para o sistemas de gestão de selos de estacionamento do IFMA Monte cas
 
 # Documentação do projeto
 
-https://ifma-api-estacionamento.herokuapp.com/swagger-ui.html#/analise-controller
+https://ifma-api-estacionamento.herokuapp.com/swagger-ui.html
 
 API construida para o modulo de gestão de gereciamento de selos do estacionamento do ifma monte castelo **IFMA ** (#sds1), uso da métodologia agil XP [IFMA](https://montecastelo.ifma.edu.br "Site do IFMA").
 
