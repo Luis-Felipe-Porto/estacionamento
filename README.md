@@ -1,15 +1,19 @@
 # Estacionamento
-Back-end para o sistemas de gestão de selos de estacionamento do IFMA Monte castelo, destinado ao módulo de análise de cadastro
+Back-end para o sistema de gestão de selos de estacionamento do IFMA Monte Castelo, destinado ao módulo de análise de cadastro
 # Estacionamento
-[![IFMA](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![IFMA](https://img.shields.io/npm/l/react)](https://github.com/Luis-Felipe-Porto/estacionamento/blob/main/LICENSE) 
 
 # Documentação do projeto
 
 https://ifma-api-estacionamento.herokuapp.com/swagger-ui.html
 
-API construida para o modulo de gestão de gereciamento de selos do estacionamento do ifma monte castelo **IFMA ** (#sds1), uso da métodologia agil XP [IFMA](https://montecastelo.ifma.edu.br "Site do IFMA").
+API construida para o modulo de gestão de gerenciamento de selos do estacionamento do ifma monte castelo **Instituto Federal de Educação, Ciência e Tecnologia do Maranhão**, [IFMA](https://montecastelo.ifma.edu.br "Site do IFMA"),com o uso da métodologia agil XP.
 
-A API consiste em uma seleção de cadastro pendentes, onde os dados podem ser cadastrado por servidor aluno ou tercerizado, e depois são analisados por um colaborador da prefeitura do campus, que faz um deferimento ou indeferimento baseados nestes dados.
+A API consiste em uma seleção de cadastro pendentes, onde os dados de cadastro podem ser solicitados por servidor, aluno ou tercerizado, e depois são analisados por um colaborador da prefeitura do campus, que faz um deferimento ou indeferimento baseados nestes dados,essa análise é feita devido integridade de verificar que os condutores possuem vínculo com o IFMA pra realizar o estacionamento de seus veiculo no campus.
+## DOC HTTP
+![HTTP 1](https://github.com/Luis-Felipe-Porto/Luis-Felipe-Porto/blob/master/assets/doc%20API.JPG)
+## RELEASES NA METODOLOGIA XP
+![HTTP 1](https://github.com/Luis-Felipe-Porto/Luis-Felipe-Porto/blob/master/assets/Realeses.JPG)
 
 # Tecnologias utilizadas
 ## Back end
